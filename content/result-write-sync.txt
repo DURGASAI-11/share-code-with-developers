@@ -1,0 +1,1 @@
+Here is the final write file using already existed files:hi this is 1st file  ,hi this is second file
